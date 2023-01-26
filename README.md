@@ -1,2 +1,2 @@
 # ts-cli
-generic typescript client with minimal scaffolding
+generic typescript cli with minimal scaffolding and supprot for creating an executable using pkg
